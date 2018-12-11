@@ -1,6 +1,5 @@
 Feature:  validate user credentials
-   sdffgdfgdfg
-   fgdfgdfg
+  
 
   Scenario: validate user able to login and gets error message while entering invalid username and password
     When I launch open cart application
